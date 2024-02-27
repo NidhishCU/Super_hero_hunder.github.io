@@ -1,7 +1,7 @@
 # Super_hero_hunder.github.io
 
 
-Host Link:- https://drnkgupta.github.io/Super_hero_hunder.github.io/
+[Host Link:- https://drnkgupta.github.io/Super_hero_hunder.github.io/](https://nidhishcu.github.io/Super_hero_hunder.github.io/)
 
 
 
